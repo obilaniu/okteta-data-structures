@@ -1,0 +1,16 @@
+[Desktop Entry]
+Icon=application-zip
+Type=Service
+ServiceTypes=KPluginInfo
+
+Name=GPT Headers
+Comment=Okteta Headers for analyzing GNU Partition Table layouts.
+
+X-KDE-PluginInfo-Author=Olexa Bilaniuk
+X-KDE-PluginInfo-Email=findme@theweb.com
+X-KDE-PluginInfo-Name=GPT
+X-KDE-PluginInfo-Version=0.0.1
+X-KDE-PluginInfo-Website=https://uefi.org/specs/UEFI/2.10/05_GUID_Partition_Table_Format.html
+X-KDE-PluginInfo-Category=structure/js
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-EnabledByDefault=true

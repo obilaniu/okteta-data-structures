@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Icon=application-x-executable
+Type=Service
+ServiceTypes=KPluginInfo
+
+Name=BcacheFS structures
+Comment=Structures for BcacheFS filesystem
+
+X-KDE-PluginInfo-Author=Olexa Bilaniuk
+X-KDE-PluginInfo-Email=findme@theweb.com
+X-KDE-PluginInfo-Name=bcachefs
+X-KDE-PluginInfo-Version=0.0.1
+X-KDE-PluginInfo-Website=https://www.anonymous.com
+X-KDE-PluginInfo-Category=structure/js
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-EnabledByDefault=false
